@@ -18,7 +18,7 @@ body{
     background-color: var(--Cream);
 }
 .container{
-    max-width : 500px;
+    max-width : 700px;
     margin: auto;
     height: max-content;
     position: absolute;
