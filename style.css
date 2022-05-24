@@ -89,6 +89,7 @@ hr{
     font-size: 11px; 
     text-align: center; 
     position: relative;
+    margin-top: 1rem;
     /* bottom: 1rem;
     width: 90%; */
 }
