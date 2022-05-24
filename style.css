@@ -22,7 +22,7 @@ body{
     align-items: center;
 }
 .container{
-    max-width : 800px;
+    width : 500px;
     margin: auto;
     height: max-content;
     margin-top: 1rem;
@@ -98,7 +98,7 @@ hr{
 }
 @media screen and (max-width : 500px){
     .container{
-        max-width: 400px;
+        max-width: 460px;
         margin-top: 3rem;
     }
 }
